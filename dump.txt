@@ -1,0 +1,113 @@
+<nav class="navbar text-light bg-white">
+            <div class="container-fluid">
+                <a class="navbar-brand">MoviesFlow</a>
+                <form class="d-flex">
+                    <input class="form-control text-white bg-white border-primary me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-primary" type="submit">Search</button>
+                </form>
+            </div>
+        </nav>
+<div class="container">
+      <div class="row align-items-start">
+        <!--card 1 starts-->
+        <div class="col-xl-3 col-lg-4 col-md-6">
+
+          <div class="card bg-dark border-primary" style="width: 18rem;">
+            <img src="images/2.jpeg" class="card-img-top" alt="LOADING...">
+            <div class="card-body align-content-end bg-black">
+              <!-- <h5 class="card-title">Card title</h5> -->
+              <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+              <a href="https://dood.ws/e/kihjvacpqzch1ual05se0awsfd69gl0s
+              " class="btn btn-primary " target="blank">WATCH ETERNALS</a>
+              <br><br>
+              <a href="https://archive.org/download/eternals.-2021.720p.-camrip.-hindi-english.x-264-the-moviesflix.com.co
+              " class="btn btn-primary" target="blank">DOWNLOAD ETERNALS</a>
+              <br><br>
+              <a href="https://archive.org/download/eternals.-2021.720p.-camrip.-hindi-english.x-264-the-moviesflix.com.co/Eternals.2021.720p.CAMRip.Hindi-English.x264-TheMoviesflix.com.co.mkv
+              " class="btn btn-primary" target="blank">DIRECT LINK Eternals.720p.Hindi-English</a>
+
+            </div>
+          </div>
+        </div>
+        <!--card 1 ends-->
+        <br><br>
+        <!--card 2 starts-->
+        <div class="col-xl-3 col-lg-4 col-md-6 mb_bottom">
+
+          <div class="card bg-dark border-primary" style="width: 18rem;">
+            <img src="images/jai_bhema.jpg" class="card-img-top" alt="LOADING...">
+            <div class="card-body align-content-end bg-black">
+              <!-- <h5 class="card-title">Card title</h5> -->
+              <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+              <a href="https://dood.ws/d/mjt4jn9pqbsov239f4dpj44yn74uanoi
+              " class="btn btn-primary " target="blank">WATCH Jai Bhim (Hindi) 2021</a>
+              <br><br>
+              <a href="https://archive.org/download/jai-bhim-hindi-2021" class="btn btn-primary" target="blank">DOWNLOAD
+                Jai Bhim (Hindi) 2021</a>
+              <br><br>
+              <a href="https://archive.org/download/jai-bhim-hindi-2021/Jai%20Bhim%20%28Hindi%29%202021.mp4
+              " class="btn btn-primary" target="blank">DIRECT LINK Jai Bhim (Hindi) 2021</a>
+
+            </div>
+          </div>
+
+        </div>
+        <!--card 2 ends-->
+
+        <br><br>
+        <!--card 3 starts-->
+        <div class="col-xl-3 col-lg-4 col-md-6 mb_bottom">
+          <div class="card bg-dark border-primary" style="width: 18rem;">
+            <img src="./images/meenakshi.jpeg" class="card-img-top" alt="LOADING...">
+            <div class="card-body align-content-end bg-black">
+              <!-- <h5 class="card-title">Card title</h5> -->
+              <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+              <a href="https://dood.ws/e/fnel5vuwz3me1c7jaziuaxi8yx5tuibg
+              " class="btn btn-primary " target="blank">WATCH Meenakshi Sundareshwar</a>
+              <br><br>
+              <a href="https://archive.org/details/meenakshi-sundareshwar-2021-nf-hindi-720p-webrip-x-264-aac-esub"
+                class="btn btn-primary" target="blank"> DOWNLOAD Meenakshi Sundareshwar ( 2021) NF Hindi 720p</a>
+              <br><br>
+              <a href="https://archive.org/download/meenakshi-sundareshwar-2021-nf-hindi-720p-webrip-x-264-aac-esub
+              " class="btn btn-primary" target="blank">DIRECT LINK Meenakshi Sundareshwar</a>
+
+            </div>
+          </div>
+
+        </div>
+        <!--card 3 ends-->
+
+        <br><br>
+        <!--card 4 starts-->
+        <div class="col-xl-3 col-lg-4 col-md-6 mb_bottom">
+          <div class="card bg-dark border-primary col-xxl-4" style="width: 18rem;">
+            <img src="./images/sooryavanshi.jpeg" class="card-img-top" alt="LOADING...">
+            <div class="card-body align-content-end bg-black">
+              <!-- <h5 class="card-title">Card title</h5> -->
+              <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+              <a href="https://dood.ws/e/jfdayjhliaj9v46i5saoo1z08k7qbtkg
+              " class="btn btn-primary " target="blank">WATCH sooryavanshi 2021 hindi 1080p</a>
+              <br><br>
+              <a href="https://archive.org/details/sooryavanshi-2021-hindi-1080p-hdcam-no-logo-x-264-aac-2.0-gb-the-movies-boss"
+                class="btn btn-primary" target="blank">DOWNLOAD sooryavanshi 2021 hindi 1080p</a>
+              <br><br>
+              <a href="https://archive.org/download/sooryavanshi-2021-hindi-1080p-hdcam-no-logo-x-264-aac-2.0-gb-the-movies-boss
+              " class="btn btn-primary" target="blank">DIRECT LINK sooryavanshi 2021 hindi 1080p</a>
+
+            </div>
+          </div>
+
+        </div>
+        <!--card 4 ends-->
+
+        <br><br>
+        <!--card 5 starts-->
+        <!--card 5 ends-->
+        <br><br>
+        <!--card 6 starts-->
+        <!--card 6 ends-->
+        <br><br>
+        <!--card 7 starts-->
+        <!--card 7 ends-->
+      </div>
+    </div>
