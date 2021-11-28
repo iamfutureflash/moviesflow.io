@@ -20,12 +20,12 @@ header{
     border: 0px solid #1C6EA4;
 border-radius: 32px;
 }
-.image_align{
+ .image_align{
 
     display: flex;
     justify-content: left;
     align-items: flex-start;
-}
+} 
 .size_iframe{
 
     width:100vw;
@@ -38,96 +38,38 @@ border-radius: 32px;
 
 }
 
-/* .btest1 {
-    border: 5px solid #eeff00;
+.container-fluid {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
-
-.btest2 {
-    border: 5px solid #1C6EA4;
-}   */
 
 .container {
     display: flex;
-    justify-content: center;
     align-items: center;
-}
-
-.col {
-    margin-left: 2rem;  
-    margin-right: 2rem;
-    display: block;
     justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.col {
+    display: grid;
     align-items: center;
 }
 
 .card {
-    margin:.8rem;
-    height: 400px;
-    width: 200px;
-    border-radius: 14px;
-    background-image: linear-gradient(rgb(0, 0, 0));
-    z-index: 2;
-    /* background-color: rgb(255, 255, 255); */
+    height: 25rem;
+    width: 12.5rem;
+    margin:.4rem;
+    
+    
 }
 .x-img{
     border-radius: 14px;
     width:14rem;
     height: 24.5rem;
     object-fit: cover;
-    -webkit-box-shadow: 5px 5px 15px 5px #000000;
     box-shadow: 5px 5px 15px 5px #000000;
-    background-image: linear-gradient(rgba(235, 10, 10, 0.623));
-    
 }
 
 .bgcolor {
     background-color: rgb(255, 255, 255);
 }
-
-
-
-/* 
-  
-*{
-    margin:0;
-    padding:0;
-}
-.main_heading{
-    background-color:greenyellow;
-    color:red;
-    font-size:50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    height:200px;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-}
-.navbar{
-    background-color:black;
-    height:50px;
-    display:flex;
-    align-items:center;
-    justify-content: center;
-}
-
-.col{
-    font-size:25px;
-    color:aliceblue;
-    padding-left:20px;
-    padding-right:20px;
-    display:inline-block;
-    line-height:50px;
-}
-.col:hover{
-    transition:.2s;
-    font-size:30px;
-    color:red;
-    background-color:white;
-    border-radius: 10px;
-    border-bottom:5px solid rgb(255, 0, 0);
-    
-    
-}
-h1{
-    color:red;
-} */
