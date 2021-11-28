@@ -7,7 +7,7 @@ body{
     color: #000000;
 }
 header{
-    background-color: #15ff005b;
+    background-color: #000000;
 }
 .row {
     display: flex;
@@ -28,8 +28,8 @@ border-radius: 32px;
 }
 .size_iframe{
 
-    width:1800px;
-    height:700px;
+    width:100vw;
+    height:60vh;
 }
 .card-title{
     display: flex;
@@ -37,6 +37,7 @@ border-radius: 32px;
     justify-content: center;
 
 }
+
 /* .btest1 {
     border: 5px solid #eeff00;
 }
@@ -46,7 +47,6 @@ border-radius: 32px;
 }   */
 
 .container {
-    
     display: flex;
     justify-content: center;
     align-items: center;
